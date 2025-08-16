@@ -6,7 +6,6 @@ __pycache__/
 env/
 venv/
 data/raw/*
-data/processed/*
 !data/**/.gitkeep
 checkpoints/
 runs/
