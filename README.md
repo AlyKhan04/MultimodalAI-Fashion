@@ -1,6 +1,6 @@
 # Multi-Task Learning for Image Classification
 
-This project implements a **multi-task learning (MTL)** model that performs **image classification** and **color recognition** simultaneously. The model is trained on a dataset of clothing images from Kaggle ([Clothes Recommendation System using DenseNet121](https://www.kaggle.com/code/rahmaezzat66/clothes-recommendation-system-using-densenet121)), and optimized to jointly minimize the classification and auxiliary color prediction losses.  
+This project implements a **multi-task learning (MTL)** model that performs **image classification** and **color recognition** simultaneously. The model is trained on a dataset of clothing images from Kaggle ([Clothes Recommendation System using DenseNet121](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)), and optimized to jointly minimize the classification and auxiliary color prediction losses.  
 
 The approach leverages the fact that related tasks share useful representations, allowing the model to generalize better than training each task in isolation.  
 
