@@ -58,6 +58,14 @@ train acc=74.08% | val cls=76.12% | val color=62.68%
 
 ---
 
+## Example Output
+
+<img width="1000" height="1000" alt="Screenshot 2025-08-17 at 6 14 48 PM" src="https://github.com/user-attachments/assets/cfb70746-11a1-440b-bd49-e8dfeaf749ea" />
+<img width="1000" height="1000" alt="Screenshot 2025-08-17 at 6 14 45 PM" src="https://github.com/user-attachments/assets/647a9fca-e8e1-4df1-828a-4da76ed8c6da" />
+
+
+---
+
 ## 🛠️ How to Run
 
 ### 1. Run on Kaggle
